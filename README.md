@@ -1,7 +1,7 @@
 # ITCS-6190 Assignment 3: AWS Data Processing Pipeline
 **Course:** Cloud Computing for Data Analysis (ITCS 6190/8190, Fall 2025)
 **Instructor:** Marco Vieira
-**Student:** Sai Tarun Vedagiri (ID: 801421332)
+**Student:** Manish Yendeti (ID: 801429980)
 ---
 This project builds a complete serverless data pipeline on AWS. The workflow takes raw data from S3,
 processes it through Lambda, catalogs it using AWS Glue, and visualizes results on a web app hosted
